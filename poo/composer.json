@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "classmap": [
+      "models/",
+      "controllers/",
+      "factories/"
+    ]
+  },
+  "require": {
+    "fzaninotto/faker": "^1.9"
+  }
+}
